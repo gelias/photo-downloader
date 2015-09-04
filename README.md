@@ -1,5 +1,4 @@
 # photo-downloader
-# photo-downloader
 
 setup
 -------------
